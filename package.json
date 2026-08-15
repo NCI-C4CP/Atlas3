@@ -47,7 +47,7 @@
     "single-spa": "^6.0.3",
     "single-spa-vue": "^3.0.1",
     "systemjs": "^6.15.1",
-    "uuid": "^13.0.0",
+    "uuid": "^14.0.0",
     "vite-plugin-vuetify": "^2.1.2",
     "vue": "^3.4.0",
     "vue-echarts": "^8.0.1",
