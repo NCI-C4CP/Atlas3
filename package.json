@@ -53,7 +53,7 @@
     "vue-echarts": "^8.0.1",
     "vue-router": "^4.2.0",
     "vuetify": "^3.5.0",
-    "zod": "^3.22.0"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@histoire/plugin-vue": "^0.17.17",
